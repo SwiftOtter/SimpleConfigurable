@@ -1,0 +1,8 @@
+Please note that not all thought processes are my original ideas on this module. I have greatly benefited from
+this Git repository: https://github.com/organicinternet/magento-configurable-simple/
+
+This module works on a trick. When the product is loaded in Adminhtml, the product type is switched out to be configurable
+type, when the page is in the catalog_product page. This allows all product editing actions to be carried out, just like
+a configurable product.
+
+In the future, we need to rethink the configurable panel as only one attribute is now presented on the frontend.

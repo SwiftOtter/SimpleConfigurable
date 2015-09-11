@@ -1,0 +1,17 @@
+{
+    "name": "SwiftOtter/SimpleConfigurable",
+    "description": "SwiftOtter's Simple Configurable module is a configurable product done right. Prices flow through from the base product.",
+    "version": "1.0.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "SwiftOtter/Base":"*",
+        "SwiftOtter/EmailNotifications":"*"
+    },
+    "authors":[
+        {
+            "name": "Joseph Maxwell",
+            "email": "joseph@swiftotter.com"
+        }
+    ]
+}
